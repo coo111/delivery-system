@@ -42,5 +42,6 @@ SpringBoot+MybatisPlus+Thymeleaf+jquery+layui
 ![img_9.png](imgs/img_9.png)
 
 ### 9.9￥ 获取完整源码+sql，需要加Q：3808981644 备用Q：3577148218
+### 有问题，或者需要协助调试运行项目的也可联系
 
 ![img.png](img.png)
